@@ -15,9 +15,9 @@ This application:
 
 > using AI behaviour tree, AI controller, Blackboard, decorator, task and service with blueprint to develop a crowd simulation sample project for academic purposes.
 
-there are two versions of same project (AI_Proto), "basic version" with simple implementations of blueprint code, and "optimized version" which presents advanced topics with AI blueprint programming.
+- there are two versions of same project (AI_Proto), "basic version" with simple implementations of blueprint code, and "optimized version" which presents advanced topics with AI blueprint programming.
 
-this is the "basic version". 
+- this is the "basic version". 
 
 Enjoy .. : ] ,, 
 
