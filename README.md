@@ -1,23 +1,33 @@
 # AI_Proto_01_UE532
- AI prototype - crowd simulation - with Blueprint
+Developed with Unreal Engine 5.3.2 <br> 
+by: Katax
 
-Developed with Unreal Engine 5.3
+LinkedIn: www.linkedin.com/in/cliff-sharif<br> 
+Home: www.kataxwork.com<br> 
 
-by: Katax 
-
-
-LinkedIn: www.linkedin.com/in/cliff-sharif
-
-Home: www.kataxwork.com
-
+> [!NOTE]
+> Blueprint only
+> [!IMPORTANT]
+> This is the "Basic version".
 
 This application:
 
-> using AI behaviour tree, AI controller, Blackboard, decorator, task and service with blueprint to develop a crowd simulation sample project for academic purposes.
+>AI prototype of crowd simulation
+>unoptimised prototype
 
-- there are two versions of same project (AI_Proto), "basic version" with simple implementations of blueprint code, and "optimized version" which presents advanced topics with AI blueprint programming.
 
-- this is the "basic version". 
+Using:
+
+AI behaviour tree <br>
+AI controller<br>
+Blackboard<br>
+Decorator<br>
+AI Task<br>
+AI Service<br>
+
+<h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
+
+
 
 Enjoy .. : ] ,, 
 
