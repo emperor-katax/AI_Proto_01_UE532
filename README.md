@@ -7,6 +7,7 @@ Home: www.kataxwork.com<br>
 
 > [!NOTE]
 > Blueprint only
+
 > [!IMPORTANT]
 > This is the "Basic version".
 
