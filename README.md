@@ -13,8 +13,10 @@ Home: www.kataxwork.com<br>
 
 This application:
 
->AI prototype of crowd simulation
->unoptimised prototype
+> AI prototype of crowd simulation <br> 
+> Using 3 different behaviours <br> 
+> Replicate animation of crowd in network<br> 
+> unoptimised prototype
 
 
 Using:
